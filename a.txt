@@ -8,3 +8,12 @@
 8
 9
 10
+
+git fetch origin
+git checkout 21-feature-김부자s-프로그램-1
+
+git branch aaaaa (생성됨)
+git switch aaaaa
+
+만들면서 이동하기
+git switch -m feature/#이슈번호
